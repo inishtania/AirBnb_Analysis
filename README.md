@@ -30,7 +30,7 @@ When discussing sales and profits, it is closely related to traffic and determin
    In exploring this analysis, I use the key metric of price. This is because the higher the price, the fewer customers want to book, and vice versa.
 
 ## **Process of Analysis**
-To conduct this analysis, I am using data from Airbnb Bangkok, which I have also uploaded to this repository. For additional data, I have also obtained the review.csv from https://insideairbnb.com/get-the-data/ to extract what guests love most about their stay in listings. Here are the step-by-step processes I followed:
+To conduct this analysis, I am using data from Airbnb Bangkok, which I have also uploaded to this repository. For additional data, I have also obtained the review.csv from https://insideairbnb.com/get-the-data/ or click this link to download (https://drive.google.com/file/d/1G1ZPfnm1gNXimne1Kn2VPYUZIwoPzE1J/view?usp=sharing) to extract what guests love most about their stay in listings. Here are the step-by-step processes I followed:
 
 ✅Data understanding<br />
 ✅Finding duplicates<br />
