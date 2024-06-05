@@ -1,6 +1,6 @@
-# ⭐ Capstone 02: Analysis of Airbnb Listings in Bangkok 2012-2022<br />
+# ⭐Analysis of Airbnb Listings in Bangkok 2012-2022<br />
 
-As part of the capstone project at Purwadhika BSD, I was tasked with assessing my data analysis skills by analyzing Airbnb listing data for the period 2012-2022.
+I was tasked with assessing my data analysis skills by analyzing Airbnb listing data for the period 2012-2022.
 My first step was to understand the dataset to:
 <br />
 1. Identify stakeholders to whom I will present my analysis.<br />
